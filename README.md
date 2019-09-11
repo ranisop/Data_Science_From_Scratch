@@ -3,7 +3,8 @@
 http://github.com/insight-book/data-science-from-scratch
 
 
-### 목차
+
+#### 목차
 01. [들어가기(introduction)](ch01_introduction.ipynb)
 02. [파이썬 속성 강좌(python_basic)](ch02_python_basic.ipynb)
 03. [데이터 시각화(visualizing_data)](ch03_visualizing_data.ipynb)
