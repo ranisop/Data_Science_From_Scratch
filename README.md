@@ -6,12 +6,12 @@ http://github.com/insight-book/data-science-from-scratch
 
 #### 목차
 01. [들어가기(introduction)](ch01_introduction.ipynb)
-02. [파이썬 속성 강좌(python_basic)](ch02_python_basic.ipynb)
-03. [데이터 시각화(visualizing_data)](ch03_visualizing_data.ipynb)
-04. [선형대수(linear_algebra)](ch04_linear_algebra.ipynb)
+02. [파이썬 속성 강좌(python basic)](ch02_python_basic.ipynb)
+03. [데이터 시각화(visualizing data)](ch03_visualizing_data.ipynb)
+04. [선형대수(linear algebra)](ch04_linear_algebra.ipynb)
 05. [통계(statistics)](ch05_statistics.ipynb)
 06. [확률(probability)](ch06_probability.ipynb)
-07. 가설과 추론
+07. [가설과 추론(hypothesis and inference)](ch07_hypothesis_and_inference.ipynb) 
 08. 경사 하강법
 09. 파이썬으로 데이터 수집하기
 10. 데이터 다루기
