@@ -14,7 +14,7 @@ http://github.com/insight-book/data-science-from-scratch
 07. [가설과 추론(hypothesis and inference)](ch07_hypothesis_and_inference.ipynb) 
 08. [경사 하강법(gradient descent)](ch08_gradient_descent.ipynb)
 09. 파이썬으로 데이터 수집하기
-10. 데이터 다루기
+10. [데이터 다루기(working with data)](ch10_working_with_data.ipynb)
 11. 기계학습
 12. k-NN
 13. 나이브 베이즈
