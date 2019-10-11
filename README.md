@@ -17,7 +17,7 @@ http://github.com/insight-book/data-science-from-scratch
 10. [데이터 다루기(working with data)](ch10_working_with_data.ipynb)
 11. [기계학습(machine learning)](ch11_machine_learning.ipynb)
 12. [k-NN(nearest neighbors)](ch12_nearest_neighbors.ipynb)
-13. 나이브 베이즈
+13. [나이브 베이즈(naive bayes)](ch13_naive_bayes.ipynb)
 14. 단순 회귀 분석
 15. 다중 회귀 분석
 16. 로지스틱 회귀 분석
