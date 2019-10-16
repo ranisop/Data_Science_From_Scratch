@@ -19,7 +19,7 @@ http://github.com/insight-book/data-science-from-scratch
 12. [k-NN(nearest neighbors)](ch12_nearest_neighbors.ipynb)
 13. [나이브 베이즈(naive bayes)](ch13_naive_bayes.ipynb)
 14. [단순 회귀 분석(simple linear regression)](ch14_simple_linear_regression.ipynb)
-15. 다중 회귀 분석
+15. [다중 회귀 분석(multiple regression)](ch15_multiple_regression.ipynb)
 16. 로지스틱 회귀 분석
 17. 의사결정나무
 18. 신경망
