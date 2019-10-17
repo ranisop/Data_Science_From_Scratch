@@ -13,15 +13,15 @@ http://github.com/insight-book/data-science-from-scratch
 06. [확률(probability)](ch06_probability.ipynb)
 07. [가설과 추론(hypothesis and inference)](ch07_hypothesis_and_inference.ipynb) 
 08. [경사 하강법(gradient descent)](ch08_gradient_descent.ipynb)
-09. 파이썬으로 데이터 수집하기
+09. 파이썬으로 데이터 수집하기(getting data)
 10. [데이터 다루기(working with data)](ch10_working_with_data.ipynb)
 11. [기계학습(machine learning)](ch11_machine_learning.ipynb)
 12. [k-NN(nearest neighbors)](ch12_nearest_neighbors.ipynb)
 13. [나이브 베이즈(naive bayes)](ch13_naive_bayes.ipynb)
 14. [단순 회귀 분석(simple linear regression)](ch14_simple_linear_regression.ipynb)
 15. [다중 회귀 분석(multiple regression)](ch15_multiple_regression.ipynb)
-16. 로지스틱 회귀 분석
-17. 의사결정나무
+16. 로지스틱 회귀 분석(logistic regression)
+17. [의사결정나무(decision trees)](ch17_decision_trees.ipynb)
 18. 신경망
 19. 군집화
 20. 자연어 처리
